@@ -1,7 +1,7 @@
 export const notificationsList = [
   {
     id: 1,
-    icon: "../public/images/avatar-mark-webber.webp",
+    icon: "../public/images/avatar-mark-webber.jpg",
     name: "Mark Webber",
     action: "reacted to your recent post",
     event: "My first tournament today!",
@@ -9,14 +9,14 @@ export const notificationsList = [
   },
   {
     id: 2,
-    icon: "../public/images/avatar-angela-gray.webp",
+    icon: "../public/images/avatar-angela-gray.jpg",
     name: "Angela Gray",
     action: "followed you",
     date: "5m ago",
   },
   {
     id: 3,
-    icon: "../public/images/avatar-jacob-thompson.webp",
+    icon: "../public/images/avatar-jacob-thompson.jpg",
     name: "Jacob Thompson",
     action: "has joined your group",
     event: "Chess Club",
@@ -24,7 +24,7 @@ export const notificationsList = [
   },
   {
     id: 4,
-    icon: "../public/images/avatar-rizky-hasanuddin.webp",
+    icon: "../public/images/avatar-rizky-hasanuddin.jpg",
     name: "Rizky Hasanuddin",
     action: "sent you a private message",
 
@@ -32,15 +32,15 @@ export const notificationsList = [
   },
   {
     id: 5,
-    icon: "../public/images/avatar-kimberly-smith.webp",
+    icon: "../public/images/avatar-kimberly-smith.jpg",
     name: "Kimberly Smith",
     action: "commented on your picture",
-    eventImg: "../public/images/image-chess.webp",
+    eventImg: "../public/images/image-chess.jpg",
     date: "1 week ago",
   },
   {
     id: 6,
-    icon: "../public/images/avatar-nathan-peterson.webp",
+    icon: "../public/images/avatar-nathan-peterson.jpg",
     name: "Nathan Peterson",
     action: "reacted to your recent post",
     event: "5 end-game strategies to increase your win rate",
@@ -48,7 +48,7 @@ export const notificationsList = [
   },
   {
     id: 7,
-    icon: "../public/images/avatar-anna-kim.webp",
+    icon: "../public/images/avatar-anna-kim.jpg",
     name: "Anna Kim",
     action: "left the group",
     event: "Chess Club",
